@@ -2,9 +2,11 @@ import java.util.Scanner;
 import java.text.NumberFormat;
 import java.util.Locale;
 
-public class Solution {
+public class Solution 
+{
     
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         /* Read input */
         Scanner scanner = new Scanner(System.in);
         double payment = scanner.nextDouble();

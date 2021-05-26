@@ -11,7 +11,6 @@ public class Solution {
    in.close();
    //String s=???; Complete this line below
     String s = String.valueOf(n);
-
    
    if (n == Integer.parseInt(s)) {
     System.out.println("Good job");

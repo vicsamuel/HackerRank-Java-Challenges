@@ -18,7 +18,8 @@ class Result {
      *  3. INTEGER year
      */
 
-    public static String findDay(int month, int day, int year) {
+    public static String findDay(int month, int day, int year) 
+    {
         Calendar cal = Calendar.getInstance();
         cal.set(Calendar.MONTH, month-1);
         cal.set(Calendar.DAY_OF_MONTH, day);
@@ -28,8 +29,10 @@ class Result {
 
 }
 
-public class Solution {
-    public static void main(String[] args) throws IOException {
+public class Solution 
+{
+    public static void main(String[] args) throws IOException 
+    {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
