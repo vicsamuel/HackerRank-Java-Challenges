@@ -34,6 +34,6 @@ Using the website https://www.hackerrank.com/ to develop my skills and work on c
 
 Made with ❤️ by [Victor Samuel](https://github.com/vicsamuel), enter in contact!
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/victor-samuel-1738a29a/" target="_blank"><img src="https://img.shields.io/badge/Contact-LinkedIn-blue/https://www.linkedin.com/in/victor-samuel-1738a29a/-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+<a href="https://www.linkedin.com/in/victor-samuel-1738a29a/" target="_blank"><img src="https://img.shields.io/badge/Contact-LinkedIn-blue" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
 <br clear="left"/>
