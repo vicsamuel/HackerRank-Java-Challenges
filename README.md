@@ -32,7 +32,7 @@ Using the website https://www.hackerrank.com/ to develop my skills and work on c
 ## Contact
 <img align="left" src="https://avatars.githubusercontent.com/vicsamuel?size=100">
 
-Made with ❤️ by [Victor Samuel](https://github.com/vicsamuel), enter in contact!
+Made with ❤️ by [Victor Samuel](https://github.com/vicsamuel)!
 
 <a href="https://www.linkedin.com/in/victor-samuel-1738a29a/" target="_blank"><img src="https://img.shields.io/badge/Contact-LinkedIn-blue" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
